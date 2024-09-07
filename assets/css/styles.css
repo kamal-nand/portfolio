@@ -290,8 +290,11 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__js {
-  width: 80%;
+.skills__java {
+  width: 85%;
+}
+.skills__javascript {
+  width: 45%;
 }
 .skills__css {
   width: 75%;
