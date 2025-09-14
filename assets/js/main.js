@@ -14,7 +14,7 @@ showMenu('nav-toggle','nav-menu')
 /*==================== START DOWNLOAD PDF ====================*/
 function openPDF() {
     const link = document.createElement('a');
-    link.href = 'assets/Resume_kamal.pdf';  // Path to your PDF file
+    link.href = 'assets/ResumeKamal.pdf';  // Path to your PDF file
     link.target = '_blank';  // Open the PDF in a new tab
     link.click();
 }
